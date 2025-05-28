@@ -1,5 +1,5 @@
 
-This project was part of my cloud learning journey — a hands-on exercise deploying a dynamic PHP café website on an AWS EC2 instance using the LAMP stack. The goal? Enable customers to place online orders from a custom-built web app hosted in the cloud.
+This project was part of my cloud learning journey a hands-on exercise deploying a dynamic PHP café website on an AWS EC2 instance using the LAMP stack. The goal? Enable customers to place online orders from a custom-built web app hosted in the cloud.
 
 ## 🚀 What I Did
 
