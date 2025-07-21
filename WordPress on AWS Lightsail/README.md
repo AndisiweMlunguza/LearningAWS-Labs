@@ -47,10 +47,8 @@ This project demonstrates the deployment of a fully functional **WordPress blog*
 
 ---
 
-## Screenshots
-
-> _(Add screenshots here if available: WordPress dashboard, Lightsail console, domain in browser with HTTPS)_
-
+## Screenshot
+Attached on the screenshots folder
 ---
 
 ## Lessons Learned
