@@ -45,12 +45,6 @@ This project demonstrates the deployment of a fully functional **WordPress blog*
 5. **Created Snapshot**
    - Enabled automatic backups for disaster recovery
 
----
-
-## Screenshot
-Attached on the screenshots folder
----
-
 ## Lessons Learned
 
 - Basic VPS management and SSH usage
